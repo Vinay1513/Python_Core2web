@@ -1,5 +1,5 @@
-from home import c2w_TkinterLibraryApp
+from home import C2W_TkinterLibraryApp
 
 if __name__ == 'main':
-    app= c2w_TkinterLibraryApp()
+    app= C2W_TkinterLibraryApp()
     app.run()
